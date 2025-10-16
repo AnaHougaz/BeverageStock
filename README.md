@@ -10,7 +10,7 @@ Calcula automaticamente quando comprar, quanto comprar e quanto manter em estoqu
 
 ```bash
 # Clone o repositório
-git clone [seu-repo]
+git clone "https://github.com/AnaHougaz/BeverageStock.git"
 cd beverage-stock
 
 # Sem dependências externas - usa apenas biblioteca padrão Python
